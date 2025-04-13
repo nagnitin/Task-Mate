@@ -73,7 +73,7 @@ src/
 ```
 
 ## 🚀 Deployment
-The app can be easily deployed using platforms like Vercel, Netlify, or Lovable.
+The app can be easily deployed using platforms like Vercel or Netlify.
 
 ## 🤝 Contributing
 1. Fork the repository
