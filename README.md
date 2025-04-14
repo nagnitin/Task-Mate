@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-Deployed Link: https://task-mate-by-nitin.vercel.app
+Deployed Link: https://task-mate-by-nitin-mu.vercel.app/
 
 TaskMate is an advanced, AI-powered task management application designed to revolutionize your productivity. With intelligent features, seamless user experience, and powerful organizational tools, TaskMate helps you stay focused, motivated, and in control of your tasks.
 
